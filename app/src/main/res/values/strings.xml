@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="registration">Registration</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">CLick to register</string>
+    <string name="hello_world">Hello World</string>
+    <string name="logout">logout</string>
+    <string name="rollno">rollno</string>
+    <string name="roomno">roomno</string>
+    <string name="hostel_name">hostel_name</string>
+    <string name="name">name</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_room_no">Enter Your Room No.</string>
+    <string name="type_the_number_of_guard">Type the number of guard</string>
+    <string name="send_sms_to_guard">Send SMS to Guard</string>
+    <string name="enter_your_roon_no">Enter Your Roon No.</string>
+</resources>
